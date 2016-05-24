@@ -5,9 +5,10 @@ modified:
 categories:
 excerpt: "Funny Geeky WiFi Names"
 tags: [WiFi, Geeky]
+ads: true
 image:
   url: https://cloud.githubusercontent.com/assets/1223371/10413030/4ef14c36-6fb9-11e5-91d7-43147cdf3c64.jpg
-  teaser:
+  teaser: https://cloud.githubusercontent.com/assets/1223371/15513198/51f3ccba-2201-11e6-8d57-e62f5534fd6c.jpg
   thumb:
   alt: Awesome Wifi SSID Names
   title: Awesome Wifi SSID Names
