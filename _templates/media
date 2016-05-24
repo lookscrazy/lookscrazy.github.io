@@ -5,9 +5,10 @@ modified:
 categories: {{ dir }}
 excerpt:
 tags: []
+ads: true
 image:
   feature:
   teaser:
   thumb:
-ads: false  
+ads: false
 ---

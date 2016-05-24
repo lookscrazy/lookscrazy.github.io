@@ -4,9 +4,10 @@ title: {{ title }}
 date: {{ date }}
 modified:
 excerpt:
+ads: true
 image:
   feature:
   teaser:
   thumb:
-ads: false  
+ads: false
 ---
