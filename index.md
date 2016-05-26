@@ -8,4 +8,5 @@ title: "Latest Posts"
 {% for post in site.posts %}
 	{% include post-grid.html %}
 {% endfor %}
+{% include advertising.html %}
 </div><!-- /.tiles -->
