@@ -16,4 +16,7 @@ date: 2016-12-30T18:36:35+05:30
 ---
 
 
-<img src="{{ page.image.url }}" alt="{{ page.image.alt }}" title="{{ page.image.title }}">
+<video preload="auto" poster="http://img-9gag-fun.9cache.com/photo/ab6m9Vr_460s.jpg" style="min-height:600px;width: 600px;;display:block;margin:0 auto;" width="600" loop="" muted="" autoplay="autoplay">
+                <source src="http://img-9gag-fun.9cache.com/photo/ab6m9Vr_460sv.mp4" type="video/mp4">
+                <source src="http://img-9gag-fun.9cache.com/photo/ab6m9Vr_460svwm.webm" type="video/webm">
+</video>
